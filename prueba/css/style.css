@@ -1,0 +1,4 @@
+@import "my.css";
+@import "../node_modules/bootstrap-5.3.2-dist/css/bootstrap.min.css";
+/* GOOGLE FONTS */
+@import url("https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap");

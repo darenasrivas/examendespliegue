@@ -1,0 +1,51 @@
+.send-btn{
+    margin-bottom: 2rem;
+}
+
+.h-color{
+    color: orange;
+    font-family: 'Oswald', sans-serif;
+    font-size: xx-large;
+}
+
+.footer-link{
+    color: orange;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin: 0 .1rem;
+    text-transform: uppercase;
+    list-style: none;
+    text-decoration: none;
+}
+
+.form-head{
+    font-weight: 800;
+}
+
+.google-map{
+    width: 100vw;
+}
+
+.nav-seccion{
+    color: orange;
+}
+
+.nav-logo{
+    height: 50px;
+}
+
+.table-lr{
+    width: 100%;
+}
+
+.slider-text{
+    font-family: 'Oswald', sans-serif;
+    font-size: xx-large;
+    text-shadow: 2px 2px 10px black;
+}
+
+.img-size{
+    width: 80%;
+}
+
